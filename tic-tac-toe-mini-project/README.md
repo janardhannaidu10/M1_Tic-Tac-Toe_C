@@ -1,4 +1,4 @@
-# step-in-mini-project
+# Project
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1f744678a82c47f8a1d45e230169b8cd)](https://github.com/janardhannaidu10/M1_Tic-Tac-Toe_C.git?utm_source=github.com&utm_medium=referral&utm_content=janardhannaidu10/M1_Tic-Tac-Toe_C&utm_campaign=Badge_Grade_Settings)
 [![CI](https://github.com/janardhannaidu10/M1_Tic-Tac-Toe_C.git/actions/workflows/build.yml/badge.svg)](https://github.com/janardhannaidu10/M1_Tic-Tac-Toe_C.git/actions/workflows/build.yml)
 [![cppcheck-action](https://github.com/janardhannaidu10/M1_Tic-Tac-Toe_C.git/actions/workflows/cpp.yml/badge.svg)](https://github.com/janardhannaidu10/M1_Tic-Tac-Toe_C.git/actions/workflows/cpp.yml)
